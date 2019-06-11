@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648190907808",
+    "firebase_url": "https://carriboulou-2702f.firebaseio.com",
+    "project_id": "carriboulou-2702f",
+    "storage_bucket": "carriboulou-2702f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648190907808:android:951b19c3e7d63e76",
+        "android_client_info": {
+          "package_name": "com.example.carriboulou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648190907808-g3fks3skibj5kqc2bf42isug986lrg7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzZsK8rlidslxltRHuZq973C1sGU50KiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648190907808-g3fks3skibj5kqc2bf42isug986lrg7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
